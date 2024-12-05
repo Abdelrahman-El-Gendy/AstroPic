@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">यह ऐप NASA की एस्ट्रोनॉमी पिक्चर ऑफ द डे (APOD) को प्रदर्शित करने के लिए डिज़ाइन किया गया है, जो उस दिन के अनुसार चुने गए तिथि पर आधारित होती है। इस ऐप के साथ, आप अद्भुत खगोलशास्त्र चित्रों का अन्वेषण कर सकते हैं और विभिन्न अंतरिक्ष घटनाओं के बारे में जान सकते हैं। जब आप तारीख चुनते हैं, तो ऐप उस दिन के चित्र और संबंधित विवरण को लाएगा। इसके अलावा, आप ऐप से सीधे नासा की वेबसाइट के लिंक पर क्लिक करके पूरे आकार के चित्र को देख सकते हैं। यह ऐप आपको चित्रों को बाद में देखने के लिए सहेजने की भी अनुमति देता है, ताकि आप अंतरिक्ष के सबसे आकर्षक चित्रों का अपना व्यक्तिगत संग्रह बना सकें। ये सहेजी गई छवियाँ कभी भी एक्सेस की जा सकती हैं और एक सूची में प्रदर्शित की जाएंगी, जिससे आप उन्हें पुनः देख सकते हैं। आप उन चित्रों को भी हटा सकते हैं जिन्हें आप अब रखना नहीं चाहते हैं। यह ऐप अंतरिक्ष चित्रों को अन्वेषण करने का एक सहज और आकर्षक तरीका प्रदान करता है, और भविष्य के संदर्भ के लिए उन्हें अपने डिवाइस पर सहेजने और प्रबंधित करने की लचीलापन प्रदान करता है।</string>
+    <string name="about_">के बारे में</string>
+    <string name="about_this_app">इस ऐप के बारे में</string>
+    <string name="app_name">एस्ट्रोपिक</string>
+    <string name="back">वापस</string>
+    <string name="change_language">भाषा बदलें</string>
+    <string name="delete">हटाएं</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="explanation">व्याख्या</string>
+    <string name="fetch_image">चित्र लाएं</string>
+    <string name="french">फ्रेंच</string>
+    <string name="help">सहायता</string>
+    <string name="hindi">हिंदी</string>
+    <string name="home">मुख्य पृष्ठ</string>
+    <string name="image_info">चित्र जानकारी</string>
+    <string name="language_changed">भाषा बदल दी गई है: </string>
+    <string name="nasa_image_search">नासा चित्र खोजें</string>
+    <string name="navigation_drawer_close">नेविगेशन ड्रॉअर बंद करें</string>
+    <string name="navigation_drawer_open">नेविगेशन ड्रॉअर खोलें</string>
+    <string name="save">सहेजें</string>
+    <string name="saved_images">सहेजी गई छवियाँ</string>
+    <string name="saved_images_text">सहेजी गई छवियाँ</string>
+    <string name="select_date">तारीख चुनें</string>
+    <string name="select_language">भाषा चुनें</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="spanish">स्पैनिश</string>
+    <string name="view">देखें</string>
+    <string name="view_hd_image">एचडी चित्र देखें</string>
+    <string name="your_app_name">आपका ऐप नाम</string>
+</resources>

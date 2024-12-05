@@ -1,0 +1,3 @@
+com.axel.astropic.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AstroPic</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="change_language">Change Language</string>
+    <string name="language_changed">Language changed to: </string>
+    <string name="home">Home</string>
+    <string name="nasa_image_search">Nasa image search</string>
+    <string name="saved_images">Saved Images</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="explanation">Explanation</string>
+    <string name="image_info">Image Info</string>
+    <string name="view_hd_image">View HD Image</string>
+    <string name="saved_images_text">Saved Images</string>
+    <string name="select_date">Select Date</string>
+    <string name="fetch_image">Fetch Image</string>
+    <string name="select_language">Select Language</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="french">French</string>
+    <string name="save">Save</string>
+    <string name="your_app_name">Your App Name</string>
+    <string name="delete">Delete</string>
+    <string name="view">View</string>
+    <string name="about">This app is designed to retrieve and display the NASA Astronomy Picture of the Day (APOD) based on a date that you select. With this app, you can explore stunning astronomical images and learn about various space phenomena from different dates. By selecting any specific date using the integrated date picker, the app will fetch the image and related description for that day. Additionally, you have the option to view the full-size image directly from the app by clicking on a provided link to the NASA website. The app also allows you to save images for later viewing, so you can build your own personal collection of the most captivating space imagery. These saved images can be accessed anytime and will be displayed in a list, allowing you to revisit them. You can also delete images you no longer wish to keep. The app provides an intuitive and engaging way to explore space images, with the flexibility to save and manage them on your device for future reference.</string>
+    <string name="about_this_app">About This App</string>
+    <string name="back">Back</string>
+    <string name="about_">About</string>
+    <string name="hindi">Hindi</string>
+    <string name="help_">Help</string>
+
+</resources>

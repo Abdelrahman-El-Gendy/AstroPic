@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/icon_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_saved_images"
+            android:icon="@drawable/icon_image"
+            android:title="@string/saved_images" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/icon_setting"
+            android:title="@string/settings" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/icon_info"
+            android:title="@string/about_" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/icon_info"
+            android:title="@string/help_" />
+
+
+    </group>
+</menu>

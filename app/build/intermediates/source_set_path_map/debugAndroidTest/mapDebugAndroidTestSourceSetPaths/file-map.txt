@@ -1,0 +1,5 @@
+com.axel.astropic.test.app-core-1.6.1-0 C:\Users\kuwar\.gradle\caches\transforms-4\6830a08a238b54d0dac17148d16fdb04\transformed\core-1.6.1\res
+com.axel.astropic.test.app-androidTest-1 D:\AstroPic\app\build\generated\res\resValues\androidTest\debug
+com.axel.astropic.test.app-mergeDebugAndroidTestResources-2 D:\AstroPic\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.axel.astropic.test.app-mergeDebugAndroidTestResources-3 D:\AstroPic\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.axel.astropic.test.app-debugAndroidTest-4 D:\AstroPic\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

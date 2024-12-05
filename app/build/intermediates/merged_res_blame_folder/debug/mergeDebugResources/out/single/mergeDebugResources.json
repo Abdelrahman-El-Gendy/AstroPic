@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\layout_activity_image_detail.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\layout\\activity_image_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_btn_bg_2.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\btn_bg_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\font_parkinsans.ttf.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\font\\parkinsans.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\layout_fragment_save_image.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\layout\\fragment_save_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_calendar_minimalistic_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\calendar_minimalistic_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\layout_activity_save_image.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\layout\\activity_save_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_dlt_btn_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\dlt_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_dilog_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\dilog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_info_btn_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\info_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_delete_recycle_bin_trash_can_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\delete_recycle_bin_trash_can_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_btn_bg_1.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\btn_bg_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_icon_setting.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\icon_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\layout_saved_image_item.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\layout\\saved_image_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_logo.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_icon_image.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\icon_image.xml"
+    },
+    {
+        "merged": "com.axel.astropic.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.axel.astropic.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_btn_bg_3.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\btn_bg_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_icon_home.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\icon_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_icon_dlt.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\icon_dlt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-debug-4:\\drawable_icon_info.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.7\\com.axel.astropic.app-main-6:\\drawable\\icon_info.xml"
+    }
+]

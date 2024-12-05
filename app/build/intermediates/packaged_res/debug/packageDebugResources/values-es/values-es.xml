@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Esta aplicación está diseñada para recuperar y mostrar la Imagen Astronómica del Día (APOD) de la NASA según la fecha que selecciones. Con esta aplicación, puedes explorar impresionantes imágenes astronómicas y aprender sobre diversos fenómenos espaciales de diferentes fechas. Al seleccionar cualquier fecha específica utilizando el selector de fechas integrado, la aplicación traerá la imagen y la descripción relacionada para ese día. Además, tienes la opción de ver la imagen en tamaño completo directamente desde la aplicación al hacer clic en un enlace proporcionado a la página web de la NASA. La aplicación también te permite guardar imágenes para verlas más tarde, por lo que puedes crear tu propia colección personal de las imágenes espaciales más cautivadoras. Estas imágenes guardadas se pueden acceder en cualquier momento y se mostrarán en una lista, permitiéndote revisitarlas. También puedes eliminar las imágenes que ya no deseas conservar. La aplicación proporciona una forma intuitiva y atractiva de explorar imágenes espaciales, con la flexibilidad de guardarlas y gestionarlas en tu dispositivo para su referencia futura.</string>
+    <string name="about_">Acerca de</string>
+    <string name="about_this_app">Acerca de esta aplicación</string>
+    <string name="app_name">AstroPic</string>
+    <string name="back">Atrás</string>
+    <string name="change_language">Cambiar idioma</string>
+    <string name="delete">Eliminar</string>
+    <string name="english">Inglés</string>
+    <string name="explanation">Explicación</string>
+    <string name="fetch_image">Obtener imagen</string>
+    <string name="french">Francés</string>
+    <string name="help">Ayuda</string>
+    <string name="hindi">Hindi</string>
+    <string name="home">Inicio</string>
+    <string name="image_info">Información de la imagen</string>
+    <string name="language_changed">Idioma cambiado a: </string>
+    <string name="nasa_image_search">Búsqueda de imágenes de la NASA</string>
+    <string name="navigation_drawer_close">Cerrar el cajón de navegación</string>
+    <string name="navigation_drawer_open">Abrir el cajón de navegación</string>
+    <string name="save">Guardar</string>
+    <string name="saved_images">Imágenes guardadas</string>
+    <string name="saved_images_text">Imágenes guardadas</string>
+    <string name="select_date">Seleccionar fecha</string>
+    <string name="select_language">Seleccionar idioma</string>
+    <string name="settings">Configuraciones</string>
+    <string name="spanish">Español</string>
+    <string name="view">Ver</string>
+    <string name="view_hd_image">Ver imagen en HD</string>
+    <string name="your_app_name">El nombre de tu aplicación</string>
+</resources>
